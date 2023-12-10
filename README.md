@@ -1,1 +1,6 @@
 # phase-1-project-final
+This project focuses on a comprehensive analysis of successful film genres to provide actionable insights for Microsoft's new movie studio. Various methods, including frequency distribution, bar charts, line plots, and box plots, were employed to understand distribution patterns, identify trends, and detect outliers.
+The study revealed the top five most popular genres in the film industry, with documentary leading, followed by Drama, Comedy, Thriller, and Horror. These insights offer valuable guidance for studios and filmmakers to align with audience preferences, resulting in increased revenues and heightened viewer engagement.
+Positive correlations were observed between average ratings and the number of votes, primarily concentrated around 5 to 8 average ratings. Additionally, a downward trend in the average number of votes and an upward trend in average ratings were identified.
+The analysis of domestic and foreign gross revealed a positive correlation, with most associations concentrated in the 0 to 2 domestic gross range. While domestic gross exhibited a slow increase over time, foreign gross showed an overall upward trend, with a notable drop in 2015.
+No outliers were detected in domestic and foreign gross, and the study highlighted that foreign gross revenue consistently surpassed domestic revenue over the years.
